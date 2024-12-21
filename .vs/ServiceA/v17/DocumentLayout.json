@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\servicea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\servicea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\services\\websocketclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\services\\websocketclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\services\\jsonmessagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\services\\jsonmessagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\models\\websocketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\models\\websocketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\models\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\models\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\interfaces\\iwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\interfaces\\iwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\interfaces\\imessagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\interfaces\\imessagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\interfaces\\igraphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\interfaces\\igraphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|c:\\users\\lanox\\source\\repos\\servicea\\servicea\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0DF4E6D-8C1A-458C-90AA-FFAB949FF7C5}|ServiceA\\ServiceA.csproj|solutionrelative:servicea\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\README.md",
+              "RelativeDocumentMoniker": "ServiceA\\README.md",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\README.md",
+              "RelativeToolTip": "ServiceA\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-21T21:09:13.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Services\\GraphService.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Services\\GraphService.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Services\\GraphService.cs",
+              "RelativeToolTip": "ServiceA\\Services\\GraphService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:05:42.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\Edge.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Models\\Edge.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\Edge.cs",
+              "RelativeToolTip": "ServiceA\\Models\\Edge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:50:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\Graph.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Models\\Graph.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\Graph.cs",
+              "RelativeToolTip": "ServiceA\\Models\\Graph.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:51:08.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Models\\Node.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\Node.cs",
+              "RelativeToolTip": "ServiceA\\Models\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:50:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebSocketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\WebSocketResponse.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Models\\WebSocketResponse.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Models\\WebSocketResponse.cs",
+              "RelativeToolTip": "ServiceA\\Models\\WebSocketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:08:12.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonMessageStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Services\\JsonMessageStrategy.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Services\\JsonMessageStrategy.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Services\\JsonMessageStrategy.cs",
+              "RelativeToolTip": "ServiceA\\Services\\JsonMessageStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:51:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSocketClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Services\\WebSocketClientService.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Services\\WebSocketClientService.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Services\\WebSocketClientService.cs",
+              "RelativeToolTip": "ServiceA\\Services\\WebSocketClientService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:52:50.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Program.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Program.cs",
+              "RelativeToolTip": "ServiceA\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:00:50.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceA.csproj",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\ServiceA.csproj",
+              "RelativeDocumentMoniker": "ServiceA\\ServiceA.csproj",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\ServiceA.csproj",
+              "RelativeToolTip": "ServiceA\\ServiceA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T08:49:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWebSocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Interfaces\\IWebSocketClient.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Interfaces\\IWebSocketClient.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Interfaces\\IWebSocketClient.cs",
+              "RelativeToolTip": "ServiceA\\Interfaces\\IWebSocketClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:53:26.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMessageStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Interfaces\\IMessageStrategy.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Interfaces\\IMessageStrategy.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Interfaces\\IMessageStrategy.cs",
+              "RelativeToolTip": "ServiceA\\Interfaces\\IMessageStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:53:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGraphService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Interfaces\\IGraphService.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Interfaces\\IGraphService.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Interfaces\\IGraphService.cs",
+              "RelativeToolTip": "ServiceA\\Interfaces\\IGraphService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:03:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GraphController.cs",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Controllers\\GraphController.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Controllers\\GraphController.cs",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Controllers\\GraphController.cs",
+              "RelativeToolTip": "ServiceA\\Controllers\\GraphController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:59:07.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServiceA\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServiceA\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T09:09:35.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lanox\\source\\repos\\ServiceA\\ServiceA\\appsettings.json",
+              "RelativeToolTip": "ServiceA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T10:20:16.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
